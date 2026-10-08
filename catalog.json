@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "extensions": [
+    {
+      "id": "x-fixture",
+      "name": "示例扩展",
+      "version": "0.1.0",
+      "tagline": "扩展体系首个验证扩展（Fixture）",
+      "category": "工具",
+      "permissions": [],
+      "sha256": "a0f6287ba75636c2dec26cc515b466099ae3eee29afbe95dd89353114bd51872",
+      "url": "https://github.com/lliony/budo-plugins/raw/main/releases/x-fixture-0.1.0/x-fixture.zip"
+    }
+  ]
+}
