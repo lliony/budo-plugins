@@ -8,7 +8,7 @@
       "tagline": "扩展体系首个验证扩展（Fixture）",
       "category": "工具",
       "permissions": [],
-      "sha256": "a0f6287ba75636c2dec26cc515b466099ae3eee29afbe95dd89353114bd51872",
+      "sha256": "a46f760768ea8d02eaf0ad7b4e255d93318cc020a5309c08bf7e957ab69f2d71",
       "url": "https://github.com/lliony/budo-plugins/raw/main/releases/x-fixture-0.1.0/x-fixture.zip"
     }
   ]
