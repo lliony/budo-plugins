@@ -14,14 +14,14 @@
     {
       "id": "x-home-reference",
       "name": "安家参考",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "tagline": "链家在售二手房与新房行情参考",
       "category": "房产",
       "permissions": [
         "bj.lianjia.com"
       ],
-      "sha256": "3e65d64bb8b16fddaa97fc70b3904b0c43bcf1b1ee5258c54f8d55d4898549e5",
-      "url": "https://github.com/lliony/budo-plugins/raw/main/releases/x-home-reference-0.1.0/x-home-reference.zip"
+      "sha256": "d0ee82c0ebc87fd69e81b429fdbc880a641e3b7de4ca9a319df491fbdfa9f393",
+      "url": "https://github.com/lliony/budo-plugins/raw/main/releases/x-home-reference-0.1.1/x-home-reference.zip"
     }
   ]
 }
