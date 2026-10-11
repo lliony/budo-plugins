@@ -14,26 +14,14 @@
     {
       "id": "x-home-reference",
       "name": "安家参考",
-      "version": "0.4.0",
-      "tagline": "贝壳多城市二手房与新房行情参考",
+      "version": "0.1.1",
+      "tagline": "贝壳在售二手房与新房行情参考",
       "category": "房产",
       "permissions": [
-        "bj.ke.com",
-        "sh.ke.com",
-        "gz.ke.com",
-        "sz.ke.com",
-        "cd.ke.com",
-        "tj.ke.com",
-        "wh.ke.com",
-        "nj.ke.com",
-        "cq.ke.com",
-        "hz.ke.com",
-        "su.ke.com",
-        "xm.ke.com",
-        "xa.ke.com"
+        "bj.lianjia.com"
       ],
-      "sha256": "a10eeb0d6e2746a0598c62e66af0bddae4f1aa5161569da846012d3d17634c6b",
-      "url": "https://github.com/lliony/budo-plugins/raw/main/releases/x-home-reference-0.4.0/x-home-reference.zip"
+      "sha256": "d0ee82c0ebc87fd69e81b429fdbc880a641e3b7de4ca9a319df491fbdfa9f393",
+      "url": "https://github.com/lliony/budo-plugins/raw/main/releases/x-home-reference-0.1.1/x-home-reference.zip"
     }
   ]
 }
