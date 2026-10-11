@@ -1,0 +1,2 @@
+{"id":"x-home-reference","name":"安家参考","icon":"house","version":"0.2.0",
+"minHostVersion":"0.1.0","activation":"onStartup","permissions":["bj.ke.com"]}

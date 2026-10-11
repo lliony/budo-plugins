@@ -14,14 +14,14 @@
     {
       "id": "x-home-reference",
       "name": "安家参考",
-      "version": "0.1.1",
-      "tagline": "链家在售二手房与新房行情参考",
+      "version": "0.2.0",
+      "tagline": "贝壳在售二手房与新房行情参考",
       "category": "房产",
       "permissions": [
-        "bj.lianjia.com"
+        "bj.ke.com"
       ],
-      "sha256": "d0ee82c0ebc87fd69e81b429fdbc880a641e3b7de4ca9a319df491fbdfa9f393",
-      "url": "https://github.com/lliony/budo-plugins/raw/main/releases/x-home-reference-0.1.1/x-home-reference.zip"
+      "sha256": "7f84a571554b022937dec513587acda2e17283e2b72502652158c5a8a8dbebab",
+      "url": "https://github.com/lliony/budo-plugins/raw/main/releases/x-home-reference-0.2.0/x-home-reference.zip"
     }
   ]
 }
