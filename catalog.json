@@ -34,6 +34,18 @@
       ],
       "sha256": "a10eeb0d6e2746a0598c62e66af0bddae4f1aa5161569da846012d3d17634c6b",
       "url": "https://github.com/lliony/budo-plugins/raw/main/releases/x-home-reference-0.4.0/x-home-reference.zip"
+    },
+    {
+      "id": "x-prompt-optimizer",
+      "name": "提示词优化器",
+      "version": "0.1.0",
+      "permissions": [
+        "prompt.always200.com"
+      ],
+      "tagline": "在线优化提示词，独立保存模型配置与历史",
+      "category": "AI",
+      "sha256": "1f44266105233b2c8a99108eee04cb4126f37702ec8a81b5098b4d46b522ffc1",
+      "url": "https://raw.githubusercontent.com/lliony/budo-plugins/develop/releases/x-prompt-optimizer-0.1.0/x-prompt-optimizer.zip"
     }
   ]
 }
