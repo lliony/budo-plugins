@@ -46,6 +46,76 @@
       "category": "AI",
       "sha256": "1f44266105233b2c8a99108eee04cb4126f37702ec8a81b5098b4d46b522ffc1",
       "url": "https://raw.githubusercontent.com/lliony/budo-plugins/develop/releases/x-prompt-optimizer-0.1.0/x-prompt-optimizer.zip"
+    },
+    {
+      "id": "x-image-metadata",
+      "name": "图片元数据",
+      "version": "0.1.0",
+      "tagline": "读取图片 EXIF、GPS、尺寸与拍摄信息",
+      "category": "效率",
+      "permissions": [],
+      "sha256": "38a3a84e1dc05c167a67d6c2f6be471ba75ae16f692fb37a8fdf0aa4b869d429",
+      "url": "https://raw.githubusercontent.com/lliony/budo-plugins/develop/releases/x-image-metadata-0.1.0/x-image-metadata.zip"
+    },
+    {
+      "id": "x-character-width",
+      "name": "全半角检测",
+      "version": "0.1.0",
+      "tagline": "检测文本全角、半角字符与 Unicode 类型",
+      "category": "开发",
+      "permissions": [],
+      "sha256": "e025be1315b04bc31f3a449150de1ff5611319fbedfb04acdc01088f30063e4c",
+      "url": "https://raw.githubusercontent.com/lliony/budo-plugins/develop/releases/x-character-width-0.1.0/x-character-width.zip"
+    },
+    {
+      "id": "x-url-codec",
+      "name": "URL 编解码",
+      "version": "0.1.0",
+      "tagline": "URL 与 URI 组件编码解码",
+      "category": "开发",
+      "permissions": [],
+      "sha256": "69a7c342f608005ca7b39f1c6aaddfb045e5306f21e7fe6b924aefc3cc5506cd",
+      "url": "https://raw.githubusercontent.com/lliony/budo-plugins/develop/releases/x-url-codec-0.1.0/x-url-codec.zip"
+    },
+    {
+      "id": "x-pdf-compare",
+      "name": "PDF 比对",
+      "version": "0.1.0",
+      "tagline": "逐页比较 PDF 文本，支持本地 OCR",
+      "category": "效率",
+      "permissions": [],
+      "sha256": "b81054ff6ccb3d618b21bbd707d31cfb4457e861e865d1b1013d1ecec5031ea4",
+      "url": "https://raw.githubusercontent.com/lliony/budo-plugins/develop/releases/x-pdf-compare-0.1.0/x-pdf-compare.zip"
+    },
+    {
+      "id": "x-crypto",
+      "name": "加密解密",
+      "version": "0.1.0",
+      "tagline": "本地加密解密、摘要、密钥生成与编码转换",
+      "category": "开发",
+      "permissions": [],
+      "sha256": "6dd3b4f9dbbe8309d273c158cdcbbff17d783ab9d9f351a62d6bd38599ceb5bc",
+      "url": "https://raw.githubusercontent.com/lliony/budo-plugins/develop/releases/x-crypto-0.1.0/x-crypto.zip"
+    },
+    {
+      "id": "x-barcode",
+      "name": "条码生成",
+      "version": "0.1.0",
+      "tagline": "离线生成条码并导出 PNG、SVG",
+      "category": "开发",
+      "permissions": [],
+      "sha256": "cadc4396bc73b7905af69ccb77bca134315f90360a57723bd14299d6fb9b1ade",
+      "url": "https://raw.githubusercontent.com/lliony/budo-plugins/develop/releases/x-barcode-0.1.0/x-barcode.zip"
+    },
+    {
+      "id": "x-gs1-validator",
+      "name": "GS1 验证",
+      "version": "0.1.0",
+      "tagline": "校验 GS1 字段、日期、校验位并预览条码",
+      "category": "开发",
+      "permissions": [],
+      "sha256": "c32c0570ac829dc90ecd78e2fd23a28f149478b1806286669617a907e9270050",
+      "url": "https://raw.githubusercontent.com/lliony/budo-plugins/develop/releases/x-gs1-validator-0.1.0/x-gs1-validator.zip"
     }
   ]
 }
